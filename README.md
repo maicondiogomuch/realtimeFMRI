@@ -24,3 +24,5 @@ sudo apt-get install python-qt4 r-base
 4) Set AFNI path
 
 set path = ( $path ~/abin ) 			#set on .tcshrc file
+
+#ok
