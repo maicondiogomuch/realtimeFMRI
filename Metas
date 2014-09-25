@@ -1,0 +1,35 @@
+Planejamento - 25/09/2014 -- 01/03/2015
+
+#Meta1
+	Projeto RealTime FMRI
+	Prazo de Entrega: 01/01/2015	
+	Aceite: - Computador da Ressonância Magnética enviando imagens 
+		pelo Dimon para o Computador rtFMRI.
+		- Dimon deve achar a pasta do novo exame automaticamente.
+		- Imagens sendo pré-processadas de acordo com as etapas 
+		selecionadas.  
+		- Mostrar atividade cerebral na região de interesse.
+		- Mostrar gráfico de ativação cerebral.
+		- Mostrar gráfico de movimentação.
+		- Mostrar aviso de movimentação excessiva.
+
+
+#Meta2
+	Leitura de 12 artigos
+	Prazo de Entrega: 01/01/2015
+	Aceite: - Ler 1 artigo por semana.
+		- Fazer resumo e agregar à fundamentação teórica
+		da dissertação.
+		- Colocar referências na dissertação.
+		- Armazenar artigo lido.
+
+#Meta3
+	Escrever dissertação
+	Prazo de Entrega: 01/03/2015
+	Aceite: - Fundamentação teórica concluída.
+		- Fluxogramas de funcionamento do sistema.
+		- Descrição do sistema.	
+
+
+
+--Tarefas podem ser acompanhas pelo RunRun.it	

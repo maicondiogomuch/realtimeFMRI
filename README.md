@@ -25,4 +25,3 @@ sudo apt-get install python-qt4 r-base
 
 set path = ( $path ~/abin ) 			#set on .tcshrc file
 
-#ok
