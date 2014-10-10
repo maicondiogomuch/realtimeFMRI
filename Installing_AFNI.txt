@@ -1,0 +1,24 @@
+#Real Time Functional Magnetic Resonance Imaging
+
+1) Download AFNI
+
+http://afni.nimh.nih.gov/afni/download/afni/releases/latest
+
+#Escolher a release: Linux OpenMP 64bit
+
+2) Change to tcsh shell
+
+ echo $SHEL									#print shell type 
+ chsh -s /bin/tcsh							#change to tcsh. Necessário dar logout e login para funcionar
+ set prompt="%B[%n]: 						#Configure Prompt in .tcshrc file in home folder   			
+
+3) Install Packages
+
+sudo apt-get install libxp6
+
+sudo apt-get install python-qt4 r-base
+
+4) Set AFNI path
+
+set path = ( $path ~/abin ) 				#set on .tcshrc file
+
